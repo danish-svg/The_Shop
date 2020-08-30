@@ -73,5 +73,3 @@ def payment(total):
             account()
             print("Now you can pay for your items...\n")
             payment(total)
-
-payment(0)
