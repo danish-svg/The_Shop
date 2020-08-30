@@ -1,2 +1,3 @@
 # The_Shop
-404 - Description not found !
+Warning : Don't mess with those info.txt and amount.txt files in Main folder.
+
