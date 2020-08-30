@@ -1,5 +1,6 @@
 Ayesha Malik 
 Lucas Nova
+(Both are humans !)
 
 Programming Language used - Python 3.
 Reason for this program - Just For Fun :);)
