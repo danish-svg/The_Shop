@@ -1,2 +1,2 @@
 #The shop's code will be here.
-#Creater - Ayesha Malik
+#Its Ayesha Malik's job to complete shop code.
